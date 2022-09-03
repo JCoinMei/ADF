@@ -5,8 +5,11 @@
 		"factoryName": {
 			"value": "JohnTestADF"
 		},
-		"LnkBlobStorage_connectionString": {
-			"value": ""
+		"LnKAzureKeyVault_properties_typeProperties_baseUrl": {
+			"value": "https://JohnKeyVault01.vault.azure.net/"
+		},
+		"LnkBlobStorage_properties_typeProperties_connectionString_secretName": {
+			"value": "StorageAccessKey"
 		}
 	}
 }
