@@ -1,0 +1,10 @@
+{
+	"name": "LnKAzureKeyVault",
+	"properties": {
+		"annotations": [],
+		"type": "AzureKeyVault",
+		"typeProperties": {
+			"baseUrl": "https://JohnKeyVault01.vault.azure.net/"
+		}
+	}
+}
