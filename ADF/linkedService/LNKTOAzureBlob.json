@@ -1,0 +1,12 @@
+{
+	"name": "LNKTOAzureBlob",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureBlobStorage",
+		"typeProperties": {
+			"connectionString": "DefaultEndpointsProtocol=https;AccountName=meizanstorestorage;EndpointSuffix=core.windows.net;",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQEFEQzQwQTI5LTc1QkQtNEQ3Ni1COEY4LTA0MkU0OEM5Q0QyOV8wNDdiMTdkNi1lYWRiLTRkNDMtOTliYi00M2Y0YjQ2ZmU2YjkiDQp9"
+		}
+	}
+}
