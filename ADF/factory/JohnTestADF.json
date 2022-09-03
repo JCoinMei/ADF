@@ -1,0 +1,9 @@
+{
+	"name": "JohnTestADF",
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c311a621-c942-4547-815a-2d5e3ec5d3a7",
+		"tenantId": "9a856388-0821-4ab9-a25e-22b6f5e4fe08"
+	}
+}
